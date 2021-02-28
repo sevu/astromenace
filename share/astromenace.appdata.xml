@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component type="desktop">
+<component type="desktop-application">
   <id>com.viewizard.astromenace.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>GPL-3.0+ AND GPL-3.0 AND CC-BY-SA-4.0 AND OFL-1.1</project_license>
+  <project_license>GPL-3.0-or-later AND CC-BY-SA-4.0 AND OFL-1.1</project_license>
   <name>AstroMenace</name>
   <summary>Hardcore 3D space scroll-shooter with spaceship upgrade possibilities</summary>
   <description>
@@ -32,6 +32,6 @@
 ​      <image type="source" width="1366" height="768">https://raw.githubusercontent.com/viewizard/astromenace/master/share/preview_wide3.jpg</image>
 ​    </screenshot>
 ​  </screenshots>
-  <url type="homepage">https://viewizard.com/</url>
+  <url type="homepage">https://viewizard.com</url>
   <developer_name>Viewizard</developer_name>
 </component>
